@@ -31,13 +31,8 @@
   font-weight: bold;
 }
 
-.accordion-arrow {
-  transition: transform 0.3s;
-  font-size: 12px;
-}
-
-.accordion-arrow.rotated {
-  transform: rotate(180deg);
+.accordion-sign {
+  font-size: 20px;
 }
 
 .accordion-content {
